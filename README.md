@@ -1,6 +1,6 @@
 # About Me
 
-Hi, I'm **[Karen Torres Medina]**, a passionate researcher and developer specializing in **Robotics**, **Artificial Intelligence (AI)**, **TinyML**, and **IoT**. Currently, I am a **Research Technician and Researcher at TAI - ESPOL**, where I develop prototypes and software, focusing on hardware design, embedded systems, and cutting-edge machine learning techniques. My interests span across numerous technological fields, and I am constantly exploring ways to integrate innovative solutions into practical applications.
+Hi, I'm **Karen Torres Medina**, a passionate researcher and developer specializing in **Robotics**, **Artificial Intelligence (AI)**, **TinyML**, and **IoT**. Currently, I am a **Research Technician and Researcher at TAI - ESPOL**, where I develop prototypes and software, focusing on hardware design, embedded systems, and cutting-edge machine learning techniques. My interests span across numerous technological fields, and I am constantly exploring ways to integrate innovative solutions into practical applications.
 
 ## Interests
 - **Robotics**
